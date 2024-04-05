@@ -2,6 +2,7 @@
   "name": "about-react",
   "homepage": "https://ankushh19.github.io/about-react",
   "version": "0.0.0",
+  "private": false,
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
